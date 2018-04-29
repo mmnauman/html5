@@ -1,4 +1,4 @@
-[
+let data = [
 {
     "question": "What is JavaScript?",
     "a": "Language",
