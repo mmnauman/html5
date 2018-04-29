@@ -1,0 +1,28 @@
+// Testing Dummy Questions 
+// Not For Production
+
+[
+{
+    question: "What is JavaScript?",
+    a: "Language",
+    b: "Snacks",
+    c: "FrameWorks",
+    d: "None"
+},
+ 
+{
+    question: "What is another name of Javascript?",
+    a: "ecmascript",
+    b: "LiveScript",
+    c: "vanilla",
+    d: "All the above" 
+},
+
+{
+    question: "What is the abbrevation of Web",
+    a: "World White Web",
+    b: "Wild Wide Web",
+    c: "World Wide Web",
+    d: "None" 
+}
+];
