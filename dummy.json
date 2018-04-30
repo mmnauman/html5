@@ -1,12 +1,11 @@
-let data = [
+[
 {
     "question": "What is JavaScript?",
     "a": "Language",
     "b": "Snacks",
     "c": "FrameWorks",
     "d": "None"
-},
- 
+}, 
 {
     "question": "What is another name of Javascript?",
     "a": "ecmascript",
@@ -14,7 +13,6 @@ let data = [
     "c": "vanilla",
     "d": "All the above" 
 },
-
 {
     "question": "What is the abbrevation of Web",
     "a": "World White Web",
@@ -22,4 +20,4 @@ let data = [
     "c": "World Wide Web",
     "d": "None" 
 }
-];
+]
