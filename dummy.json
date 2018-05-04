@@ -5,7 +5,7 @@
     "b": "Snacks",
     "c": "FrameWorks",
     "d": "None",
-     "answer": "a",
+     "answer": "a"
 },
 {
     "question": "What is another name of Javascript?",
@@ -13,7 +13,7 @@
     "b": "LiveScript",
     "c": "vanilla",
     "d": "All the above",
-    "answer": "d",
+    "answer": "d"
 },
 {
     "question": "What is the abbrevation of Web",
@@ -21,27 +21,28 @@
     "b": "Wild Wide Web",
     "c": "World Wide Web",
     "d": "None",
-    "answer": "b",
+    "answer": "b"
 },
 {
     "question": "What is Web Development",
     "a": "World White Web",
     "b": "Wild Wide Web",
     "c": "World Wide Web",
-    "d": "None",
+    "d": "None"
 },
 {
     "question": "What is the abbrevation of Web",
     "a": "World White Web",
     "b": "Wild Wide Web",
     "c": "World Wide Web",
-    "d": "None",
+    "d": "None"
 },
 {
     "question": "What is Web Designing",
     "a": "World White Web",
     "b": "Wild Wide Web",
     "c": "World Wide Web",
-    "d": "None",
-},
+    "d": "None"
+}
+    
 ]
