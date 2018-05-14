@@ -41,9 +41,9 @@
 },
 {
     "question": "Which is the correct way to declare the undefined variable?",
-    "a": "let a = 'undefined' ",
-    "b": "let a =  undefined",
-    "c": "let a = '' ",
+    "a": "let a = undefined ",
+    "b": "let a  undefined",
+    "c": "let a ",
     "d": "None of these",
     "answer": "b"
 },
@@ -56,7 +56,7 @@
     "answer": "a"
 },
 {
-    "question": "Which are the correct method to add comments in JavaScript?",
+    "question": "Which is the correct method to add comments in JavaScript?",
     "a": "//Comment here",
     "b": "/* Comment in Between*/",
     "c": "Both A & B are Correct",
