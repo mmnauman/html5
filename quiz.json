@@ -1,0 +1,67 @@
+[
+    {
+    "question": "Which is the Javascript Primitive Datatype?",
+    "a": "Number",
+    "b": "String",
+    "c": "Undefined",
+    "d": "All the above",
+     "answer": "d"
+},
+{
+    "question": "What is another name of Javascript?",
+    "a": "ecmascript",
+    "b": "LiveScript",
+    "c": "vanilla",
+    "d": "All the above",
+    "answer": "d"
+},
+{
+    "question": "What is the use (isNan) Method in Javascript?",
+    "a": "Convert String To Number",
+    "b": "Convert Number to String",
+    "c": "Return true if the argument is not a number",
+    "d": "return true if the argument is a number",
+    "answer": "c"
+},
+{
+    "question": "Which company developed JavaScript??",
+    "a": "Netscape",
+    "b": "Apple",
+    "c": "Microsoft",
+    "d": "Adobe",
+    "answer": "a"
+},
+{
+    "question": "Which company developed JavaScript?",
+    "a": "Netscape",
+    "b": "Apple",
+    "c": "Microsoft",
+    "d": "Adobe",
+    "answer": "a"
+},
+{
+    "question": "Which is the correct way to declare the undefined variable?",
+    "a": 'let a = "undefined" ',
+    "b": "let a =  undefined",
+    "c": 'let a = "" ',
+    "d": "None of these",
+    "answer": "b"
+},
+{
+    "question": "What does prompt method do in JavaScript",
+    "a": "allows the user to enter text",
+    "b": "Alert the user",
+    "c": "it is a basic input box",
+    "d": "None of these",
+    "answer": "a"
+},
+{
+    "question": "Which are the correct method to add comments in JavaScript?",
+    "a": "//Comment here",
+    "b": "/* Comment in Between*/",
+    "c": "Both A & B are Correct",
+    "d": "None of these",
+    "answer": "c"
+},
+    
+]
