@@ -41,7 +41,7 @@
 },
 {
     "question": "Which is the correct way to declare the undefined variable?",
-    "a": 'let a = "undefined" ',
+    "a": "let a = 'undefined' ",
     "b": "let a =  undefined",
     "c": 'let a = "" ',
     "d": "None of these",
@@ -62,6 +62,6 @@
     "c": "Both A & B are Correct",
     "d": "None of these",
     "answer": "c"
-},
+}
     
 ]
