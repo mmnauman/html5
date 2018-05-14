@@ -43,7 +43,7 @@
     "question": "What is === operator?",
     "a": "Equality",
     "b": "strict equality operator ",
-    "c": 'equals',
+    "c": "equals",
     "d": "None of these",
     "answer": "b"
 },
