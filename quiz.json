@@ -40,10 +40,10 @@
     "answer": "a"
 },
 {
-    "question": "Which is the correct way to declare the undefined variable?",
-    "a": 'let a = "undefined" ',
-    "b": "let a = undefined",
-    "c": 'let a = "" ',
+    "question": "What is === operator?",
+    "a": "Equality",
+    "b": "strict equality operator ",
+    "c": 'equals',
     "d": "None of these",
     "answer": "b"
 },
