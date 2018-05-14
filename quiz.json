@@ -32,11 +32,11 @@
     "answer": "a"
 },
 {
-    "question": "Which company developed JavaScript?",
-    "a": "Netscape",
-    "b": "Apple",
-    "c": "Microsoft",
-    "d": "Adobe",
+    "question": "What is the use of Void(0)?",
+    "a": "prevent the page from refreshing ",
+    "b": "Find error in the page",
+    "c": "Load other page",
+    "d": "Does Nothing. This is Depreciated",
     "answer": "a"
 },
 {
